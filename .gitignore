@@ -1,0 +1,4 @@
+.env
+sslCertificate/
+node_modules
+*.code-workspace
