@@ -1,23 +1,26 @@
 body {
     padding: 40px;
     background-color: #0B2447;
+    font-family: 'Varela Round', sans-serif !important;
 }
 
-.pc-headingscolor {
+.pc-heading {
     color: #576CBC;
+    font-size: 2.5em;
 }
 
-.pc-biocolor {
+.pc-heading:hover {
     color: #576CBC;
-    padding-bottom: 1%;
 }
 
 .pc-boxcolor {
     background-color: #19376D;
+    margin-top: 2%;
 }
 
-.pc-linkcolor {
+.pc-link {
     color: #A5D7E8;
+    font-size: 1.2em;
 }
 
 a:hover {
