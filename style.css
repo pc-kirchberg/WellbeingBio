@@ -52,3 +52,30 @@ hr {
 .long{
     width: 60%;
 }
+
+@media screen and (max-width: 900px) {
+    .pc-text{
+        font-size: 1.25em;
+    }
+
+    .pc-textb{
+        font-size: 1.5em;
+    }
+
+    .pc-heading{
+        font-size: 2em;
+    }
+
+    hr {
+        width: 80%;
+    }
+
+    .long {
+        width: 90%;
+        margin-bottom: 10%;
+    }
+
+    .pc-link {
+        font-size: 0.9em;
+    }
+}
